@@ -1,0 +1,273 @@
+pwd
+ls
+ls -l
+ls -a
+cd/
+ls
+vagrant status
+pwd
+grep i-
+cd /
+cd etc /
+cd etc/
+cat passwd
+pwd
+man man
+man pwd
+apropor useradd
+apropos useradd
+whatis useradd
+useradd --help
+cat readme
+ls
+pwd
+ls -l
+ssh-keygen
+cd
+pwd
+ls  -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+sudo apt install git
+git --version
+git clone git@github.com:SalasLeandro/Tp1Arquitectura.git
+git status
+cp README miercoles21/
+cd
+cp README miercoles21/
+cp README miercoles4/
+cd README miercoles21/
+cp README miercoles21/
+cp README miercoles4/
+cp README miercoles4
+cd
+git clone git@github.com:SalasLeandro/Tp1Arquitectura.git
+cd
+mkdir archivosgithub
+ls
+cp README archivosgithub/
+cd archivosgithub/
+ls
+ls -a
+ls -la
+cd..
+cd/
+cd
+/archivosgithub$ git status
+archivosgithub/
+archivosgithub
+archivosgithub/
+ls
+/archivosgithub
+cd archivosgithub/
+git status
+home
+cd /
+ls -la
+cp README Tp1Arquitectura
+cp README Tp1Arquitectura/
+cd/
+cd /
+list
+ls
+cd home
+ls
+ls -a
+ls -la
+cd vagrant
+cd home
+cd home/
+ls -la
+cp README archivosgithub/
+cd archivosgithub/
+ls -a
+ls -la
+git status
+cd 7
+cd /
+ls -la
+cd home
+cd README archivosgithub/
+ls -la
+cd vagrant/
+ls -la
+cd README Tp1Arquitectura
+cp README TP1Arquitectura/
+cp README archivosgithub/
+cd repogit/
+ls la-
+ls -la
+cd /
+git clone git@github.com:SalasLeandro/miercoles21.git
+cd archivosgithub/
+cd /
+ls -la
+ls la
+ls
+cd /
+cd/
+cd /
+ls
+mkdir archivosgit
+ls
+cd home
+ls
+cd vagrant
+ls
+cd archivosgithub
+ls -la
+git init
+ls -la
+git status
+git add README
+git status
+git commit -m "Primer archivo"
+git config --global user.email "salas.leandro987@gmail.com"
+git config --global user.name "SalasLeandro"
+git commit -m "Primer archivo"
+git push origin main
+cd /
+ls -la
+git clone git@github.com:SalasLeandro/miercoles21.git
+ls -la
+git clone git@github.com:SalasLeandro/tparq.git
+ls -la
+cd tparq
+ls -la
+cp README tparq
+cd /
+ls -la
+vagrant ssh
+cd home
+cd home/
+ls -la
+cd vagrant
+ls -la
+cp README tparq
+cd tpar
+cd tpaq
+cd tparq
+ls -la
+git status
+git add README
+git status
+git commit -m "Primer"
+git push origin main
+cd..
+cd home
+cd 
+ls -la
+cd repogit
+git clone git@github.com:SalasLeandro/TP_AySO.git
+ls -la
+cat /etc/os-release
+man grep
+grep -i Home_url /etc/os-release >
+datos_url.txt grep -i Home_url /etc/os-release > datos_url.txt
+grep -i Home_url /etc/os-release > datos_url.txt
+grep home_url /etc/os-release
+grep HOME_URL/etc/os-release
+history
+ls
+cd tparq
+ls
+cat README
+cd
+cd archivosgithub
+ls
+cat README
+README
+cd
+cd repogit
+ls
+cd TP_AySO
+ls
+cat datos_usuario.txt
+cat datos_url.txt
+cat README.MD
+cd
+ls
+cd punto7
+ls
+cd materia1
+ls
+cd
+mkdir -p ejercicio1/{materia1,materia2}/uni{1..3}
+ls
+cd punto7
+mkdir -p ejercicio1/{materia1,materia2}/uni{1..3}
+mkdir -p ejercicio1/{materia1, materia2}/uni{1..3}
+ls
+cd
+cd ejercicio1
+ls
+cd
+l
+ls
+tree punto7
+cd
+ls
+remove punto7
+cd punto7
+remove punto7
+cd
+mv punto7
+rm punto7
+rm -r punto7
+ls
+mkdir -p punto7/{materia1,materia2}/uni{1..3}
+ls
+tree punto7
+cd repogit
+ls
+cd TP_AySO
+ls
+cd
+ls
+rm -r punto7
+mkdir -p ejercicio7/{materia1,materia2}/uni{1..3}
+tree ejercicio7
+cd repogit
+ls
+cd TP_AySO
+lss
+ls
+mkdir -p ejercicio7/{materia1,materia2}/uni{1..3} >> script_dir.sh
+cat script_dir.sh
+ls
+cd ejercicio
+cd ejercicio7
+ls
+cd
+ls
+cd repogit
+ls
+cd TP_AySO
+ls
+cat script_dir.sh
+sudo chmod 777 script_dir.sh
+cat script_dir.sh
+script_dir.sh
+./script_dir.sh
+rm -r ejercicio7
+ls
+rm script_dir.sh
+ls
+vim script_dir.sh
+cat script_dir.sh
+sudo chmod 777  script_dir.sh
+sudo chmod 777 script_dir.sh
+ls -l
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
+cd
+history -a
+ls
+cd repogit
+ls
+cd TP_AySO
+ls
+history -a|cp ~/.bash_history ./Historial_comandos_Salas.txt
